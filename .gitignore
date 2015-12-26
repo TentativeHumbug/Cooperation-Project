@@ -1,0 +1,7 @@
+
+/.settings/
+/bin/
+/Results/
+/TrustResults/
+/.classpath
+!./src/
